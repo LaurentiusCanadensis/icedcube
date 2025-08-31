@@ -11,6 +11,9 @@ isometric view. It includes:
 
 ---
 
+<img width="1019" height="793" alt="image" src="https://github.com/user-attachments/assets/a91cdcf4-6e3b-4f08-a6ba-17e8b3dd50fb" />
+
+
 ## Installing Rust
 
 This project uses the [Rust programming language](https://www.rust-lang.org/).
