@@ -1,0 +1,12 @@
+/Users/laurentius/RustroverProjects/rubics/./docs/debug/deps/libiced-cb256cbb0931201a.rmeta: /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/lib.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/error.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/sandbox.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/application.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/settings.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/time.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/window.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/window/icon.rs
+
+/Users/laurentius/RustroverProjects/rubics/./docs/debug/deps/iced-cb256cbb0931201a.d: /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/lib.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/error.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/sandbox.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/application.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/settings.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/time.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/window.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/window/icon.rs
+
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/lib.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/error.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/sandbox.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/application.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/settings.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/time.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/window.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced-0.12.1/src/window/icon.rs:

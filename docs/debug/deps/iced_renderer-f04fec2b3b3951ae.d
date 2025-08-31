@@ -1,0 +1,9 @@
+/Users/laurentius/RustroverProjects/rubics/./docs/debug/deps/libiced_renderer-f04fec2b3b3951ae.rmeta: /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced_renderer-0.12.1/src/lib.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced_renderer-0.12.1/src/compositor.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced_renderer-0.12.1/src/geometry.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced_renderer-0.12.1/src/geometry/cache.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced_renderer-0.12.1/src/settings.rs
+
+/Users/laurentius/RustroverProjects/rubics/./docs/debug/deps/iced_renderer-f04fec2b3b3951ae.d: /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced_renderer-0.12.1/src/lib.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced_renderer-0.12.1/src/compositor.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced_renderer-0.12.1/src/geometry.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced_renderer-0.12.1/src/geometry/cache.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced_renderer-0.12.1/src/settings.rs
+
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced_renderer-0.12.1/src/lib.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced_renderer-0.12.1/src/compositor.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced_renderer-0.12.1/src/geometry.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced_renderer-0.12.1/src/geometry/cache.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iced_renderer-0.12.1/src/settings.rs:

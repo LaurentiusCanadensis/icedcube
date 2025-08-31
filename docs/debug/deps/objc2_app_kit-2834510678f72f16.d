@@ -1,0 +1,9 @@
+/Users/laurentius/RustroverProjects/rubics/./docs/debug/deps/libobjc2_app_kit-2834510678f72f16.rmeta: /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.2.2/src/lib.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.2.2/src/generated/mod.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.2.2/src/generated/NSPasteboard.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.2.2/src/../examples/delegate.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.2.2/src/../examples/nspasteboard.rs
+
+/Users/laurentius/RustroverProjects/rubics/./docs/debug/deps/objc2_app_kit-2834510678f72f16.d: /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.2.2/src/lib.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.2.2/src/generated/mod.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.2.2/src/generated/NSPasteboard.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.2.2/src/../examples/delegate.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.2.2/src/../examples/nspasteboard.rs
+
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.2.2/src/lib.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.2.2/src/generated/mod.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.2.2/src/generated/NSPasteboard.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.2.2/src/../examples/delegate.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.2.2/src/../examples/nspasteboard.rs:

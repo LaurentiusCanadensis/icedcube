@@ -1,0 +1,8 @@
+/Users/laurentius/RustroverProjects/rubics/./docs/debug/deps/libobjc2_quartz_core-f99cc8465f1c5363.rmeta: /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.2.2/src/lib.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.2.2/src/generated/mod.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.2.2/src/generated/CALayer.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.2.2/src/generated/CATransaction.rs
+
+/Users/laurentius/RustroverProjects/rubics/./docs/debug/deps/objc2_quartz_core-f99cc8465f1c5363.d: /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.2.2/src/lib.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.2.2/src/generated/mod.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.2.2/src/generated/CALayer.rs /Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.2.2/src/generated/CATransaction.rs
+
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.2.2/src/lib.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.2.2/src/generated/mod.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.2.2/src/generated/CALayer.rs:
+/Users/laurentius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.2.2/src/generated/CATransaction.rs:

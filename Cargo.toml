@@ -1,0 +1,14 @@
+[package]
+name = "rubics"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+iced = { version = "0.12", features = ["canvas"] }
+rand = "0.8"
+
+# ✅ WASM-specific deps
+[target.'cfg(target_arch = "wasm32")'.dependencies]
+wasm-bindgen = "0.2"
+console_error_panic_hook = "0.1"
+getrandom = { version = "0.2", features = ["js"] }   # for rand on web
